@@ -3,3 +3,6 @@ A new folder is created with name ".git". This folder has the information about 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is an intermediary place where we can put only the files we want to commit. We can have many files modified and as the commit is made with relationated modifications we ca choose what put together in eath commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can use the commands "git diff", to compare the work directory with staging area, "git diff --staging" to compare the staging area with last commit, and check the changes before make a commit.
