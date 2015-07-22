@@ -6,3 +6,6 @@ Staging area is an intermediary place where we can put only the files we want to
 
 How can you use the staging area to make sure you have one commit per logical change?
 We can use the commands "git diff", to compare the work directory with staging area, "git diff --staging" to compare the staging area with last commit, and check the changes before make a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+We can use branches to separete different versions of the same projects. For exemple, when we are trying a experimental function.
