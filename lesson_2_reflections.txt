@@ -12,3 +12,7 @@ We can use branches to separete different versions of the same projects. For exe
 
 How do the diagrams help you visualize the branch structure?
 it use a graphical way to show the branch structure. It's a easy mode to analisis the structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result file is the union of the two branches in reference to the original file.
+We do the graph to reprensent the merges we did.
