@@ -9,3 +9,6 @@ We can use the commands "git diff", to compare the work directory with staging a
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 We can use branches to separete different versions of the same projects. For exemple, when we are trying a experimental function.
+
+How do the diagrams help you visualize the branch structure?
+it use a graphical way to show the branch structure. It's a easy mode to analisis the structure.
