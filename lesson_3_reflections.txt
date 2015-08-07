@@ -4,3 +4,10 @@ when we need to work with others or when we need to use more than one computer.
 Why might you want to always pull changes manually rather than having Git automatically 
 stay up-to-date with your remote repository?
 Bacause I can work on modifications that I don't want to share because its not ready...
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches is used when we want to develop a new experimental feature or something like that. The feature can
+be developed isolated from the main code.
+Clone is a copy of a repository. It can be done locally (from local to local) or remote (from remote to local)
+Forks is used when we don't have access to modificate the original repository... We can make a copy and work 
+on it by ourself, with no modification on the repository forked.
