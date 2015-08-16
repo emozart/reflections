@@ -11,3 +11,7 @@ be developed isolated from the main code.
 Clone is a copy of a repository. It can be done locally (from local to local) or remote (from remote to local)
 Forks is used when we don't have access to modificate the original repository... We can make a copy and work 
 on it by ourself, with no modification on the repository forked.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can merge our modifications with this state and push it to origin.
+
